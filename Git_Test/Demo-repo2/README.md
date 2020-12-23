@@ -21,3 +21,4 @@ Some Text.g
 - git pull
 - git reset HEAD~1
 - git reset ......
+- git chg
