@@ -1,6 +1,6 @@
 # Demo2
 
-Some Text.g
+Some Text
 
 ## Local Development
 
